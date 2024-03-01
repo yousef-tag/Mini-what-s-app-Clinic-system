@@ -1,0 +1,5 @@
+﻿  Source.cpp
+  User.cpp
+  Generating Code...
+e:\my_collegue\projects\what'sapp2\source.cpp(86): warning C4715: 'chatMessage': not all control paths return a value
+  What'sApp2.vcxproj -> E:\My_Collegue\projects\What'sApp Console\Debug\What'sApp2.exe
